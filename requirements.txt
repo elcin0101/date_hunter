@@ -1,0 +1,4 @@
+playwright
+pytesseract
+requests
+Pillow
