@@ -1,2 +1,2 @@
 [phases.setup]
-nixPkgs = ["xorg.xvfb"]
+nixPkgs = ["python312", "python312Packages.pip", "xorg.xvfb"]
